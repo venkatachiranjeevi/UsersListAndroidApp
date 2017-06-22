@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PharmeasyTestApp</string>
+    <string name="name">Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="on_request">Loading Users &#8230;</string>
+</resources>
