@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="user_title_size">24sp</dimen>
+    <dimen name="user_item_body_margin_top">8dp</dimen>
+    <dimen name="user_profile_picture_height">180dp</dimen>
+    <dimen name="activity_names_margin_top">32dp</dimen>
+</resources>
